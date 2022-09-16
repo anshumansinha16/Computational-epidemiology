@@ -1,0 +1,6 @@
+This folder contains the models which I have built for my first homework assignment
+
+The overview is as follows:
+
+1. ODE based SIR Models
+2. Network based SIR Models on graphs
